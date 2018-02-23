@@ -14,6 +14,7 @@ namespace Kattis
     //Solves in 0.02 s on Kattis
     class LineThemUp
     {
+        /*
         //Every C# Program starts in the Main
         static void Main(string[] args)
         {
@@ -51,6 +52,6 @@ namespace Kattis
             {
                 Console.WriteLine("NEITHER"); //Write the answer to the standard output (console window).
             }
-        }
+        }*/
     }
 }
