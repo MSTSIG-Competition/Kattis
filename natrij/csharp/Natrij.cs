@@ -13,6 +13,7 @@ namespace Kattis
     //Completed in 0.02 s on Kattis
     class Natrij
     {
+        /*
         //Every C# Program starts in the Main
         static void Main(string[] args)
         {
@@ -53,6 +54,6 @@ namespace Kattis
 
             //Write the answer to the standard output (console window).
             Console.WriteLine((h < 10 ? "0" : "") + h + ":" + (m < 10 ? "0" : "") + m + ":" + (s < 10 ? "0" : "") + s);
-        }
+        }*/
     }
 }

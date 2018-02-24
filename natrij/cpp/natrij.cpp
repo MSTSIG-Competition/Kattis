@@ -8,6 +8,7 @@
 
 using namespace std;
 
+/*
 int main()
 {
 	int h1, m1, s1, h2, m2, s2; //First hour, first minute, first second, second hour, second minute, second second
@@ -42,3 +43,4 @@ int main()
 	//Write the answer to the standard output (console window).
 	cout << (h < 10 ? "0" : "") << h << ":" << (m < 10 ? "0" : "") << m << ":" << (s < 10 ? "0" : "") << s << endl;
 }
+*/
