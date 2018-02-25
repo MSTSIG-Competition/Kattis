@@ -36,6 +36,7 @@ namespace Kattis
    x[5]=2 and 5 != 2 so check 2's parent x[2]=2 and 2==2 so 2 is the representative
    since both representatives are the same they are connected.
  */
+ /*
     public class UnionFind
     {
         List<int> id = new List<int>();
@@ -143,5 +144,5 @@ namespace Kattis
                 Console.WriteLine("Connected"); //This will be the only thing printed to the standard output (console).
             }
         }
-    }
+    }*/
 }
