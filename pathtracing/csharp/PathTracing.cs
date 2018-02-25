@@ -13,6 +13,7 @@ namespace Kattis
     //Runs on Kattis in .07 s
     class PathTracing
     {
+        /*
         //Every C# Program starts in the Main
         static void Main(string[] args)
         {
@@ -109,6 +110,6 @@ namespace Kattis
                 }
                 Console.WriteLine();
             }
-        }
+        }*/
     }
 }
